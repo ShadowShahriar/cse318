@@ -1,0 +1,5 @@
+*.ini
+.old
+*.txt
+desktop.ini
+**/.submit
