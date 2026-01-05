@@ -1,0 +1,9 @@
+# CSE 318: System Analysis and Design
+
+System Analysis and Design (**SAD**) is a process of collecting and interpreting facts, identifying the problems, and decomposition of a system into its components.
+
+-   [**📌 Course Outline: Theory**](materials/course-outline-theory.docx)
+
+## Recommended Book
+
+-   [**📘 System Analysis and Design, 8th Edition by Kendall and Kendall**](materials/textbook.pdf)
