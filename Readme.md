@@ -12,3 +12,7 @@ System Analysis and Design (**SAD**) is a process of collecting and interpreting
 
 -   [**Class 01**](https://shadowshahriar.github.io/cse318/notes/class-01.pdf): 05 January 2026
 -   [**Class 02**](#class-notes): 06 January 2026
+
+## Lab Reports
+
+-   [**Lab 01**](https://shadowshahriar.github.io/cse318/lab/01-2026-01-07/report.pdf): 07 January 2026
