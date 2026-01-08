@@ -3,6 +3,7 @@
 System Analysis and Design (**SAD**) is a process of collecting and interpreting facts, identifying the problems, and decomposition of a system into its components.
 
 -   [**📌 Course Outline: Theory**](materials/course-outline-theory.docx)
+-   [**📌 Course Outline: Lab**](materials/course-outline-lab.docx)
 
 ## Recommended Book
 
