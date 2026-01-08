@@ -8,10 +8,20 @@ System Analysis and Design (**SAD**) is a process of collecting and interpreting
 
 -   [**📘 System Analysis and Design, 8th Edition by Kendall and Kendall**](materials/textbook.pdf)
 
+## Course Materials
+
+-   **Chapter 1**
+    -   [**PowerPoint Slide 1**](https://shadowshahriar.github.io/cse318/materials/chapter-01.pptx)
+    -   [**SDLC with example**](https://shadowshahriar.github.io/cse318/materials/chapter-01-sdlc.pdf)
+
 ## Class Notes
 
 -   [**Class 01**](https://shadowshahriar.github.io/cse318/notes/class-01.pdf): 05 January 2026
 -   [**Class 02**](#class-notes): 06 January 2026
+
+## Lab Notes
+
+-   [**Lab 01**](#lab-notes): 07 January 2026
 
 ## Lab Reports
 
