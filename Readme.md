@@ -5,6 +5,18 @@ System Analysis and Design (**SAD**) is a process of collecting and interpreting
 -   [**📌 Course Outline: Theory**](materials/course-outline-theory.docx)
 -   [**📌 Course Outline: Lab**](materials/course-outline-lab.docx)
 
+## Course Information
+
+```
+Course Code   : CSE 317-318
+Course Title  : System Analysis and Design
+Course Credit : 3 (Theory), 1.5 (Lab)
+```
+
+Course offered by,
+
+[**Shampa Banik**](https://www.bubt.edu.bd/department/27/faculty/profile/881)<br>Lecturer<br>Department of Computer Science and Engineering<br>**shampabanik@bubt.edu.bd**<br>+880 174 6449 766<br>B1/602
+
 ## Recommended Book
 
 -   [**📘 System Analysis and Design, 8th Edition by Kendall and Kendall**](materials/textbook.pdf)
