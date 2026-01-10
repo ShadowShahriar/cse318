@@ -30,7 +30,7 @@ Course offered by,
 ## Class Notes
 
 -   [**Class 01**](https://shadowshahriar.github.io/cse318/notes/class-01.pdf): 05 January 2026
--   [**Class 02**](#class-notes): 06 January 2026
+-   [**Class 02**](https://shadowshahriar.github.io/cse318/notes/class-02.pdf): 06 January 2026
 
 ## Lab Notes
 
