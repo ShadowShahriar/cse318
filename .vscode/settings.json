@@ -10,6 +10,8 @@
 		"**/.gitignore": true,
 		"**/desktop.ini": true,
 		".old": true,
-		"LICENSE": true
+		"LICENSE": true,
+		"_config.yml": true,
+		"_includes": true
 	}
 }
