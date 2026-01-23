@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Page-1" id="55E6CInQJG_z5yQZADbv">
+    <mxGraphModel dx="941" dy="572" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-56" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" value="Patient" vertex="1">
+          <mxGeometry height="44" width="132" x="528" y="704" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-57" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" value="Gemini API" vertex="1">
+          <mxGeometry height="44" width="132" x="176" y="121" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-58" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity" value="SQlite Database" vertex="1">
+          <mxGeometry height="44" width="132" x="858" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-59" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="0" vertex="1">
+          <mxGeometry height="200" width="200" x="473" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-60" parent="vLeL6rpvHGJ9rfUg0Jh4-59" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="&lt;b&gt;Mental Health&lt;/b&gt;&lt;div&gt;&lt;b&gt;Management System&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Feelio)&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="132" width="165" x="17.5" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-66" edge="1" parent="1" source="vLeL6rpvHGJ9rfUg0Jh4-56" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=30.5;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="748" y="523" as="sourcePoint" />
+            <mxPoint x="558" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-67" edge="1" parent="1" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=61;entryDy=0;entryPerimeter=0;" target="vLeL6rpvHGJ9rfUg0Jh4-56" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="594" y="420" as="sourcePoint" />
+            <mxPoint x="644" y="451" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-68" edge="1" parent="1" source="vLeL6rpvHGJ9rfUg0Jh4-59" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="vLeL6rpvHGJ9rfUg0Jh4-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="748" y="176" />
+            </Array>
+            <mxPoint x="693" y="325" as="sourcePoint" />
+            <mxPoint x="743" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-69" edge="1" parent="1" source="vLeL6rpvHGJ9rfUg0Jh4-58" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=101.5;exitDy=44;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="vLeL6rpvHGJ9rfUg0Jh4-59" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="370" />
+            </Array>
+            <mxPoint x="748" y="402" as="sourcePoint" />
+            <mxPoint x="798" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-71" edge="1" parent="1" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=101.5;entryDy=44;entryPerimeter=0;" target="vLeL6rpvHGJ9rfUg0Jh4-57" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="253" />
+            </Array>
+            <mxPoint x="473" y="253" as="sourcePoint" />
+            <mxPoint x="314" y="187" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-72" edge="1" parent="1" style="endArrow=classic;html=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="198" y="330" />
+            </Array>
+            <mxPoint x="198" y="166" as="sourcePoint" />
+            <mxPoint x="473" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;labelBackgroundColor=none;" value="View emotional wellbeing in calendar format (yearly/weekly/monthly)" vertex="1">
+          <mxGeometry height="30" width="209" x="594" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Enter daily mood check-ins and write journal" vertex="1">
+          <mxGeometry height="30" width="209" x="341" y="528" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-79" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Retrieve user data (date input, journal text)" vertex="1">
+          <mxGeometry height="30" width="203.5" x="726" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-80" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Update user data (date input, journal text)" vertex="1">
+          <mxGeometry height="30" width="203.5" x="654.5" y="128" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Prompt model with user instruction" vertex="1">
+          <mxGeometry height="30" width="203.5" x="275" y="209" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Get tokenized response" vertex="1">
+          <mxGeometry height="30" width="203.5" x="242" y="297" as="geometry" />
+        </mxCell>
+        <mxCell id="vLeL6rpvHGJ9rfUg0Jh4-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;labelBackgroundColor=none;" value="Export user data in CSV format" vertex="1">
+          <mxGeometry height="30" width="209" x="605" y="539" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
