@@ -36,11 +36,11 @@ Course offered by,
 - [**Class 05**](https://shadowshahriar.github.io/cse318/notes/class-05.pdf): 19 January 2026
 - [**Class 06**](https://shadowshahriar.github.io/cse318/notes/class-06.pdf): 20 January 2026
 
-## Lab Notes
+## Lab Task
 
-- [**Lab 01**](https://shadowshahriar.github.io/cse318/lab/01-2026-01-07/note.pdf): 07 January 2026
-- **Lab 02**: 14 January 2026
-- **Lab 03**: 21 January 2026
+- [**Lab 01**](https://shadowshahriar.github.io/cse318/lab/01-2026-01-07/tasks.docx): 07 January 2026
+- [**Lab 02**](https://shadowshahriar.github.io/cse318/lab/02-2026-01-14/tasks.docx): 14 January 2026
+- [**Lab 03**](https://shadowshahriar.github.io/cse318/lab/03-2026-01-21/tasks.docx): 21 January 2026
 
 ## Lab Reports
 
