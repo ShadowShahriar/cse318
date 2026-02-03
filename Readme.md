@@ -19,13 +19,11 @@ Course offered by,
 
 ## Recommended Book
 
-- [**📘 System Analysis and Design, 8th Edition by Kendall and Kendall**](materials/textbook.pdf)
+- [**📘 System Analysis and Design, 8th Edition by Kendall and Kendall**](https://drive.usercontent.google.com/download?id=1uSgP-NPDUk1cXd-vhNI7cadLamBy9e6m&export=download)
 
 ## Course Materials
 
-- **Chapter 1**
-    - [**PowerPoint Slide 1**](https://shadowshahriar.github.io/cse318/materials/chapter-01.pptx)
-    - [**SDLC with example**](https://shadowshahriar.github.io/cse318/materials/chapter-01-sdlc.pdf)
+> All course materials have been moved to this dedicated [**Google Drive folder**](https://drive.google.com/drive/folders/1xRBfyF6o80RRZqhyAVSuMempakSRrO2q?usp=sharing) to avoid GitHub pages size constraints.
 
 ## Class Notes
 
@@ -36,15 +34,18 @@ Course offered by,
 - [**Class 05**](https://shadowshahriar.github.io/cse318/notes/class-05.pdf): 19 January 2026
 - [**Class 06**](https://shadowshahriar.github.io/cse318/notes/class-06.pdf): 20 January 2026
 - [**Class 07-08**](https://shadowshahriar.github.io/cse318/notes/class-07-08.pdf): 26-27 January 2026
+- [**Class 09-10**](https://shadowshahriar.github.io/cse318/notes/class-09-10.pdf): 02-03 February 2026
 
 ## Lab Task
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse318/lab/01-2026-01-07/tasks.docx): 07 January 2026
 - [**Lab 02**](https://shadowshahriar.github.io/cse318/lab/02-2026-01-14/tasks.docx): 14 January 2026
 - [**Lab 03**](https://shadowshahriar.github.io/cse318/lab/03-2026-01-21/tasks.docx): 21 January 2026
+- [**Lab 04**](https://shadowshahriar.github.io/cse318/lab/04-2026-01-28/tasks.docx): 28 January 2026
 
 ## Lab Reports
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse318/lab/01-2026-01-07/report.pdf): 07 January 2026
 - [**Lab 02**](https://shadowshahriar.github.io/cse318/lab/02-2026-01-14/report.pdf): 14 January 2026
 - [**Lab 03**](https://shadowshahriar.github.io/cse318/lab/03-2026-01-21/report.pdf): 21 January 2026
+- [**Lab 04**](https://shadowshahriar.github.io/cse318/lab/04-2026-01-28/report.pdf): 28 January 2026
