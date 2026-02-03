@@ -42,6 +42,7 @@ Course offered by,
 - [**Lab 02**](https://shadowshahriar.github.io/cse318/lab/02-2026-01-14/tasks.docx): 14 January 2026
 - [**Lab 03**](https://shadowshahriar.github.io/cse318/lab/03-2026-01-21/tasks.docx): 21 January 2026
 - [**Lab 04**](https://shadowshahriar.github.io/cse318/lab/04-2026-01-28/tasks.docx): 28 January 2026
+- **Lab 05**: 04 February 2026 (❌ No class)
 
 ## Lab Reports
 
@@ -49,3 +50,4 @@ Course offered by,
 - [**Lab 02**](https://shadowshahriar.github.io/cse318/lab/02-2026-01-14/report.pdf): 14 January 2026
 - [**Lab 03**](https://shadowshahriar.github.io/cse318/lab/03-2026-01-21/report.pdf): 21 January 2026
 - [**Lab 04**](https://shadowshahriar.github.io/cse318/lab/04-2026-01-28/report.pdf): 28 January 2026
+- **Lab 05**: 04 February 2026 (❌ No class)
