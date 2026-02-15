@@ -2,7 +2,7 @@
 
 ### Topic List
 
-1. **Definitions**
+1. [**Definitions**](#definitions)
     - Information, Data, System, Information System
     - System Analysis, System Analyst
     - Design Methodology
@@ -108,3 +108,11 @@
 - <ins><strong>Project Scheduling:</strong></ins> The process of organizing and mapping out the sequences of tasks, timelines, and resources necessary to complete a project efficiently.
 
 - <ins><strong>PERT Diagram:</strong></ins> A project management tool used to map out, schedule, and coordinate tasks within a project by visualizing task dependencies and timelines.
+
+- <ins><strong>Slack Time (or float):</strong></ins> The amount of time a task can be delayed without affecting the project's overall deadline or subsequent tasks.
+
+- <ins><strong>Critical Path:</strong></ins> The longest sequence of dependent tasks that must be completed on time for a project to finish by its deadline.
+
+- <ins><strong>Problem Statement:</strong></ins> A concise, data-driven description of an issue, gap, or pain point that a project aims to resolve.
+
+- <ins><strong>Rent and Lease:</strong></ins> Renting is short-term (weeks to months), allowing for quick moves. Leasing is a long-term, fixed-period contract, often 12 months or longer.

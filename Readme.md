@@ -25,6 +25,13 @@ Course offered by,
 
 > All course materials have been moved to this dedicated [**Google Drive folder**](https://drive.google.com/drive/folders/1xRBfyF6o80RRZqhyAVSuMempakSRrO2q?usp=sharing) to avoid GitHub pages size constraints.
 
+## Theory Quick Notes
+
+- [**Mid Term Examination**](https://shadowshahriar.github.io/cse318/theory/#mid-term-examination)
+    - [Topic List](https://shadowshahriar.github.io/cse318/theory/#topic-list)
+    - [Full Forms](https://shadowshahriar.github.io/cse318/theory/#full-forms)
+    - [Definitions](https://shadowshahriar.github.io/cse318/theory/#definitions)
+
 ## Class Notes
 
 - [**Class 01**](https://shadowshahriar.github.io/cse318/notes/class-01.pdf): 05 January 2026
