@@ -40,7 +40,7 @@
         3. [Components of Use Case Model](#23-components-of-use-case-model)
         4. [Types of Behavioral Relationships](#24-types-of-behavioral-relationships)
         5. [Why do we need a Use Case Model?](#25-why-do-we-need-a-use-case-model)
-        6. Use Case Scenario
+        6. [Use Case Scenario](#26a-use-case-scenario)
 
     - **Chapter III**
         1. Gantt Chart
@@ -551,3 +551,36 @@ Use Case Model reveals what users can do within a system. It consists of three c
 - Use cases help analysts define boundaries.
 
 - Use cases can be traceable, allowing analysts to identify links between use cases and other design and documentation tools.
+
+---
+
+#### 2.6A. Use Case Scenario
+
+Use Case Scenario is a specific, step-by-step description of how an actor interacts with a system to acheive a goal, detailing a signle path through a use case.
+
+Parts of a Use Case Scenario:
+
+1. <ins><strong>Area Header:</strong></ins> Includes initiators and identifiers.
+    - Name and Unique ID
+    - Application Area
+    - Actors and Stakeholders
+    - Use Case Level
+    - Use Case Description
+
+2. <ins><strong>Steps Performed:</strong></ins> Steps required to suceessfully execute the use case.
+
+3. <ins><strong>Footer:</strong></ins>
+    - Preconditions
+    - Assumptions
+    - Questions
+    - Other information
+
+---
+
+#### 2.6B. Use Case Level
+
+- <ins><strong>White (Clouds):</strong></ins> Enterprise level
+- <ins><strong>Kite:</strong></ins> Business/Department level (HR)
+- <ins><strong>Blue (Sea):</strong></ins> User level
+- <ins><strong>Indigo (Fish):</strong></ins> Functional or subfunctional level (OTP generation)
+- <ins><strong>Black (Calm):</strong></ins> Technical level (Most detailed)
