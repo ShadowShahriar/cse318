@@ -30,16 +30,16 @@
         5. [Principles](#15a-principles-of-agile) & [Core Practices of Agile](#15b-core-practices-of-agile)
         6. [Five Stages of Agile Development](#15e-five-stages-of-agile-development)
         7. [OOSAD](#17a-oosad-methodology), [Usage of OOSAD](#17b-usage-of-oosad)
-        8. SDLC vs Agile
-        9. SDLC, Agile or OOSAD - When to use each?
+        8. [SDLC vs Agile vs OOSAD](#18-difference-between-sdlc-agile-and-oosad)
+        9. [SDLC, Agile or OOSAD - When to use each?](#19a-when-to-use-sldc)
         10. [Types of CASE Tools](#110-types-of-case-tools)
 
     - **Chapter II**
-        1. Forces that shape an Organization
-        2. ER Diagram: Entity and Relationship Types
-        3. Components of Use Case Model
-        4. Types of Behavioral Relationships
-        5. Why do we need a Use Case Model?
+        1. [Forces that shape an Organization](#21-forces-that-shape-an-organization)
+        2. [ER Diagram: Entity and Relationship Types](#22-entity-and-relationship-types)
+        3. [Components of Use Case Model](#23-components-of-use-case-model)
+        4. [Types of Behavioral Relationships](#24-types-of-behavioral-relationships)
+        5. [Why do we need a Use Case Model?](#25-why-do-we-need-a-use-case-model)
         6. Use Case Scenario
 
     - **Chapter III**
@@ -370,6 +370,41 @@ OOSAD is a structural methodology that models systems as interacting, real-world
 
 ---
 
+#### 1.8. Difference between SDLC, Agile, and OOSAD
+
+| Aspect              | SDLC                                        | Agile                               | OOSAD                                             |
+| :------------------ | :------------------------------------------ | :---------------------------------- | :------------------------------------------------ |
+| Approach            | **Linear**, Sequential                      | Iterative, **Incremental**          | Interative, **Object-Oriented**                   |
+| Flexibility         | **Low** adaptibility to change              | **High** adaptibility to change     | **Moderate** flexibility, but more upfront design |
+| Documentation       | **Extensive** documentation for each phase  | **Minimal**                         | **Detailed modeling** using UML                   |
+| Team Involvement    | Silos between phases (analysts, developers) | Collaborative, cross-functional     | Collaborative, but more focused on modeling       |
+| Development Process | Clear, structured phases                    | Short sprints with regular feedback | Focus on designing objects and their behaviors    |
+| Best for            | **Well-defined**, stable projects           | **Rapidly changing** requirements   | Complex, **long-term scalable** systems           |
+
+---
+
+#### 1.9A. When to use SLDC?
+
+- When the project goals and requirements are well-defined.
+- When the project has a clear SRS document.
+- When there needs to be a fully featured project ready to be launched.
+- When there are adequate resources and time to complete the full SDLC.
+
+#### 1.9B. When to use Agile?
+
+- When applications need to be developed quickly in response to a dynamic environment.
+- When developing a fail-safe or backup system.
+- When the customer is satisfied with incremental improvements.
+- Where executives and analysts agree with the principles of Agile methodology.
+
+#### 1.9C. When to use OOSAD?
+
+- When systems can be added gradually, one subsystem at a time.
+- When reuse of previously written software is possible. When the systems are modular.
+- When it is acceptable to tackle the difficult problems first.
+
+---
+
 #### 1.10. Types of CASE Tools
 
 1. **Upper Case:** Follows first 3 steps of SDLC.
@@ -377,3 +412,142 @@ OOSAD is a structural methodology that models systems as interacting, real-world
 2. **Lower Case:** Follows last 4 steps of SDLC.
 
 3. **Integrated CASE:** Hybrid of upper case and lower case.
+
+---
+
+#### 2.1. Forces that shape an Organization
+
+Three main forces interact to shape an organization:
+
+1. Levels of Management
+    1. **Strategic Management:** Focuses on short-term goals, (weekly/monthly), Defines the organization as a whole.
+    2. **Middle Management:** Intercommunicates between strategic and operational managements,
+    3. **Operational managements:** Employees who perform regular activities.
+
+2. Organizational Environments
+    1. Community (Has a physical location)
+    2. Economic (Market factors)
+    3. Political (State and local government)
+    4. Legal (Federal, State, Regional)
+
+3. Organizational Culture
+    1. **Open System:** Free flow of information. Output from one system becomes input to another.
+    2. **Closed System:** Restricted access to information.
+
+---
+
+#### 2.2. Entity and Relationship Types
+
+Focus on entities and how they are connected with each-other.
+
+<ins><strong>Relationship Types:</strong></ins>
+
+1. One to One
+2. One to Many
+3. Many to Many
+
+<ins><strong>Types of Entities:</strong></ins>
+
+1. Fundamental (**Strong**) Entity
+    - A real life object that can exist **independently**.
+    - Can have one or more attributes.
+    - **Example:** Student, Course, Employee.
+
+2. Associative Entity
+    - Created to resolve a **Many to Many** relationship between fundamental entities.
+
+3. Attributive (**Weak**) Entity
+    - Less likely used.
+    - Used to store multi-valued attributes of fundamental entities.
+    - Depends on fundamental entities.
+    - **Example:** Phone Number.
+
+---
+
+#### 2.3. Components of Use Case Model
+
+Use Case Model reveals what users can do within a system. It consists of three components:
+
+1. **Actor**
+    - **Primary Actor:** Gets benefit from the system.
+    - **Supporting Actor:** Helps to keep the system running.
+
+2. **Use Case**
+    - Shows the requirements of the system.
+    - Shows the tasks/functions an actor can perform using the system.
+
+3. **Behavioral Relationships**
+
+    Shows the interactions between,
+    - **Actor** ~ **Use Case**
+    - **Use Case** ~ **Use Case**
+    - **Actor** ~ **Actor**
+
+---
+
+#### 2.4. Types of Behavioral Relationships
+
+1. <ins><strong>Communicates</strong></ins>
+    - Relationship between Actor ~ Use Case.
+    - Represented with a solid line.
+    - **Symbol:** ———
+    - **Representation:**
+        ```
+        Actor ——— (Use Case)
+        ```
+
+2. <ins><strong>Includes</strong></ins>
+    - **Mandatory**
+    - Relationship between Use Case ~ Use Case.
+    - One use case always includes another use case as part of its behavior.
+    - One is **Base Use Case** and the other is **Included Use Case**.
+    - The included use case must happen every time the base use case happens.
+    - **Symbol:** ---&lt;&lt;includes&gt;&gt;---&gt;
+    - **Representation:**
+        ```
+        (Base Use Case) ---<<includes>>---> (Included Use Case)
+        ```
+
+3. <ins><strong>Excludes</strong></ins>
+    - **Optional**
+    - One use case optionally extends another use case under certain conditions.
+    - Happens only sometimes.
+    - Adds extra behavior to the **Base Use Case**.
+    - **Symbol:** ---&lt;&lt;extends&gt;&gt;---&gt;
+    - **Representation:**
+        ```
+        (Base Use Case) <---<<includes>>--- (Extended Use Case)
+        ```
+
+4. <ins><strong>Generalizes</strong></ins>
+    - Shows that a specialized thing inherits behavior from a general thing.
+    - The relationship can be between,
+        - **Use Case** ~ **Use Case**
+        - **Actor** ~ **Actor**
+    - **Symbol:** ———▷
+    - **Representation:**
+        ```
+        Specialized ———▷ General
+        ```
+
+**Note:** Actors are external entity. So, the use case must be within a system boundary (rectangle) and the actors must be placed outside of it.
+
+---
+
+#### 2.5. Why do we need a Use Case Model?
+
+- Use cases effectively communicate system requirements because the diagrams are kept simple.
+
+- Use cases allow people to tell stories.
+
+- Use case stories make sense to non-technical people.
+
+- Use cases don't depend on a special language.
+
+- Use cases can describe most functional requirements (such as **interaction between actors and applications**)
+
+- Use cases can describe non-functional requirements (such as **performance and maintainability**) through the use of stereotypes.
+
+- Use cases help analysts define boundaries.
+
+- Use cases can be traceable, allowing analysts to identify links between use cases and other design and documentation tools.
