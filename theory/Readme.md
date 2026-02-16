@@ -45,8 +45,8 @@
     - **Chapter III**
         1. Gantt Chart
         2. PERT Diagram
-        3. What are some reasons to initial a new project?
-        4. How to identify if we need to initiate a new project?
+        3. [What are some reasons to initiate a new project?](#33-what-are-some-reasons-to-initiate-a-new-project)
+        4. [How to identify if we need to initiate a new project?](#34-how-to-identify-if-we-need-to-initiate-a-new-project)
         5. Feasibility Analysis: Assessment & Output
         6. Types of Feasibility Analysis
         7. Why is Feasibility Analysis needed?
@@ -575,8 +575,6 @@ Parts of a Use Case Scenario:
     - Questions
     - Other information
 
----
-
 #### 2.6B. Use Case Level
 
 - <ins><strong>White (Clouds):</strong></ins> Enterprise level
@@ -584,3 +582,22 @@ Parts of a Use Case Scenario:
 - <ins><strong>Blue (Sea):</strong></ins> User level
 - <ins><strong>Indigo (Fish):</strong></ins> Functional or subfunctional level (OTP generation)
 - <ins><strong>Black (Calm):</strong></ins> Technical level (Most detailed)
+
+---
+
+#### 3.3. What are some reasons to initiate a new project?
+
+A collection of organized tasks that can be performed either in sequential or in parallel manner to achieve a specific goal.
+
+There are mainly two reasons that might require to initiate a new project -
+
+1. Facing problems in the current infrastructure.
+2. Opportunities to improve, installing new systems.
+
+---
+
+#### 3.4. How to identify if we need to initiate a new project?
+
+1. Asking for user feedback,
+2. Check performance benchmarks: Current vs New solution,
+3. Frequent job turnovers and dissatisfaction.
