@@ -23,9 +23,9 @@
 
 2. **Theoretical Questions**
     - **Chapter I**
-        1. Roles of a System Analyst
-        2. Qualities of a System Analyst
-        3. Characteristics of SLDC, SDLC Figure
+        1. [Roles of a System Analyst](#11-roles-of-a-system-analyst)
+        2. [Qualities of a System Analyst](#12-qualities-of-a-system-analyst)
+        3. [Characteristics of SLDC, SDLC Figure](#13-software-development-life-cycle-sdlc)
         4. Agile Development, Agile Figure
         5. Principles & Core Practices of Agile
         6. OOSAD, Usage of OOSAD
@@ -71,6 +71,7 @@
 | DFD               | Data Flow Diagram                          |
 | ER&nbsp;Diagram   | Entity-Relationship Diagram                |
 | PERT&nbsp;Diagram | Program Evaluation and Review Technique    |
+| SRS               | Software Requirement Specification         |
 
 ---
 
@@ -122,3 +123,95 @@
 - <ins><strong>Rent and Lease:</strong></ins> Renting is short-term (weeks to months), allowing for quick moves. Leasing is a long-term, fixed-period contract, often 12 months or longer.
 
 ---
+
+### Theoretical Questions
+
+#### 1.1. Roles of a System Analyst
+
+A system analyst must be experienced in working with computers and be able to work with people of all descriptions.
+
+A System Analyst has three primary roles -
+
+1. **Consultant** (The Problem Solver)
+    1. Analyzes existing systems
+    2. Gathers requirements
+    3. Proposes solutions
+
+2. **Agent of Change** (The Facilitator)
+    1. <ins><strong>Bridges gaps:</strong></ins> Acts as a connection between business departments (_who need solutions_) and technical teams (_who build solutions_)
+
+    2. <ins><strong>Manages implementation:</strong></ins> Oversees the development and deployment of new systems, ensuring they meet specifications and integrate smoothly.
+
+    3. <ins><strong>Trains users:</strong></ins> Develops training programs and documentation to help employees adapt to new software and processes.
+
+3. **Supporting Expert** (The Technical Guide)
+    1. <ins><strong>Designs systems:</strong></ins> Creates functional specifications, system architecture, and design documents for developers.
+
+    2. Tests and monitors systems.
+    3. Stays up-to-date.
+
+#### 1.2. Qualities of a System Analyst
+
+A great system analyst combines strong analytical and problem-solving skills with excellent communication, business acumen and technical knowledge to bridge the gap between IT and business needs.
+
+Key qualities include -
+
+1. Problem-solving
+2. Communication
+3. Strong personal and professional ethics
+4. Self discipline and self-motivation
+
+- <ins><strong>Problem Solving</strong></ins>
+
+    Views the analysis of problems as a challenge and enjoys devising workable solutions.
+
+- <ins><strong>Communication</strong></ins>
+    1. Capable of relating meaningfully to other people over extended periods of time.
+
+    2. Has enough computer experience to program and to understand the capabilities of computers.
+
+    3. Obtain information requirements from users.
+
+    4. Communicate what is needed to programmers.
+
+- <ins><strong>Personal and Professional Ethics</strong></ins>
+
+    Involves prioritizing public welfare, honesty, integrity, unbiased judgement and competence. It focuses on protecting user safety and data privacy while delivering qualityful and reliable systems. It ensures transparency, avoiding conflicts of interest and respecting colleagues and clients.
+
+#### 1.3. Software Development Life Cycle (SDLC)
+
+Software Development Life Cycle (**SDLC**) is a cost-effective and time-efficient process that development teams use to design and build high-quality software.
+
+SDLC follows a,
+
+- Systematic and oderly approach
+    - There is only way forward
+    - There is no undo button
+
+![SDLC](../assets/images/sdlc.jpg 'Figure 1.3: Software Development Life Cycle (SDLC) and its phases')
+
+<p align="center"><i>figure 1.3: Software Development Life Cycle (SDLC) and its phases.</i></p>
+
+<ins><strong>SDLC Characteristics:</strong></ins>
+
+1. Developed through the use of specific cycles of activities by analyst and user.
+
+2. Each phase has unique user activities and certain deliverable.
+
+<ins><strong>SDLC Prerequisites:</strong></ins>
+
+1. Users should know what they need. (**clear SRS**)
+
+2. No repeated changes.
+
+##### **Q. When to use SDLC?**
+
+1. When the requirements are clear and detailed.
+
+2. When project scope, goals, budget and resources are defined.
+
+##### **Q. Where to use SDLC?**
+
+1. Developing healthcare and Govt. systems.
+
+2. Developing banking systems. (like ATM)

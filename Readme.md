@@ -32,6 +32,11 @@ Course offered by,
     - [Full Forms](https://shadowshahriar.github.io/cse318/theory/#full-forms)
     - [Definitions](https://shadowshahriar.github.io/cse318/theory/#definitions)
 
+## Practice Problems
+
+- **Mid Term Examination**
+    - [**01:** Feasibility Analysis, Problem Statement, Project Scheduling](https://shadowshahriar.github.io/cse318/notes/practice-01.pdf)
+
 ## Class Notes
 
 - [**Class 01**](https://shadowshahriar.github.io/cse318/notes/class-01.pdf): 05 January 2026
