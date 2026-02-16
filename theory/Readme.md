@@ -184,7 +184,7 @@ Key qualities include -
 
 #### 1.3. Software Development Life Cycle (SDLC)
 
-Software Development Life Cycle (**SDLC**) is a cost-effective and time-efficient process that development teams use to design and build high-quality software.
+SDLC is a cost-effective and time-efficient process that development teams use to design and build high-quality software.
 
 SDLC follows a systematic and oderly approach
 
@@ -218,6 +218,8 @@ SDLC follows a systematic and oderly approach
 1. When the requirements are clear and detailed.
 
 2. When project scope, goals, budget and resources are defined.
+
+<br>
 
 **Q. Where to use SDLC?**
 
