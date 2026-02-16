@@ -136,6 +136,7 @@ A System Analyst has three primary roles -
     - Analyzes existing systems
 
     - Gathers requirements
+
     - Proposes solutions
 
 2. **Agent of Change** (The Facilitator)
@@ -148,8 +149,9 @@ A System Analyst has three primary roles -
 3. **Supporting Expert** (The Technical Guide)
     - <ins><strong>Designs systems:</strong></ins> Creates functional specifications, system architecture, and design documents for developers.
 
-    - Tests and monitors systems.
-    - Stays up-to-date.
+    - Tests and monitors systems
+
+    - Stays up-to-date
 
 ---
 
