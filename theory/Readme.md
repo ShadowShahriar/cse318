@@ -502,7 +502,7 @@ Use Case Model reveals what users can do within a system. It consists of three c
     - One use case always includes another use case as part of its behavior.
     - One is **Base Use Case** and the other is **Included Use Case**.
     - The included use case must happen every time the base use case happens.
-    - **Symbol:** ---&lt;&lt;includes&gt;&gt;---&gt;
+    - **Symbol:** ----&lt;&lt;includes&gt;&gt;----&gt;
     - **Representation:**
         ```
         (Base Use Case) ---<<includes>>---> (Included Use Case)
@@ -513,10 +513,10 @@ Use Case Model reveals what users can do within a system. It consists of three c
     - One use case optionally extends another use case under certain conditions.
     - Happens only sometimes.
     - Adds extra behavior to the **Base Use Case**.
-    - **Symbol:** ---&lt;&lt;extends&gt;&gt;---&gt;
+    - **Symbol:** ----&lt;&lt;extends&gt;&gt;----&gt;
     - **Representation:**
         ```
-        (Base Use Case) <---<<includes>>--- (Extended Use Case)
+        (Base Use Case) <---<<extends>>--- (Extended Use Case)
         ```
 
 4. <ins><strong>Generalizes</strong></ins>
