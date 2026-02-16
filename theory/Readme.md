@@ -21,7 +21,7 @@
     - Problem Statement
     - Rent & Lease
 
-2. **Theoretical Questions**
+2. [**Theoretical Questions**](#theoretical-questions)
     - **Chapter I**
         1. [Roles of a System Analyst](#11-roles-of-a-system-analyst)
         2. [Qualities of a System Analyst](#12-qualities-of-a-system-analyst)
@@ -133,22 +133,24 @@ A system analyst must be experienced in working with computers and be able to wo
 A System Analyst has three primary roles -
 
 1. **Consultant** (The Problem Solver)
-    1. Analyzes existing systems
-    2. Gathers requirements
-    3. Proposes solutions
+    - Analyzes existing systems
+    - Gathers requirements
+    - Proposes solutions
 
 2. **Agent of Change** (The Facilitator)
-    1. <ins><strong>Bridges gaps:</strong></ins> Acts as a connection between business departments (_who need solutions_) and technical teams (_who build solutions_)
+    - <ins><strong>Bridges gaps:</strong></ins> Acts as a connection between business departments (_who need solutions_) and technical teams (_who build solutions_)
 
-    2. <ins><strong>Manages implementation:</strong></ins> Oversees the development and deployment of new systems, ensuring they meet specifications and integrate smoothly.
+    - <ins><strong>Manages implementation:</strong></ins> Oversees the development and deployment of new systems, ensuring they meet specifications and integrate smoothly.
 
-    3. <ins><strong>Trains users:</strong></ins> Develops training programs and documentation to help employees adapt to new software and processes.
+    - <ins><strong>Trains users:</strong></ins> Develops training programs and documentation to help employees adapt to new software and processes.
 
 3. **Supporting Expert** (The Technical Guide)
-    1. <ins><strong>Designs systems:</strong></ins> Creates functional specifications, system architecture, and design documents for developers.
+    - <ins><strong>Designs systems:</strong></ins> Creates functional specifications, system architecture, and design documents for developers.
 
-    2. Tests and monitors systems.
-    3. Stays up-to-date.
+    - Tests and monitors systems.
+    - Stays up-to-date.
+
+---
 
 #### 1.2. Qualities of a System Analyst
 
@@ -178,19 +180,24 @@ Key qualities include -
 
     Involves prioritizing public welfare, honesty, integrity, unbiased judgement and competence. It focuses on protecting user safety and data privacy while delivering qualityful and reliable systems. It ensures transparency, avoiding conflicts of interest and respecting colleagues and clients.
 
+---
+
 #### 1.3. Software Development Life Cycle (SDLC)
 
 Software Development Life Cycle (**SDLC**) is a cost-effective and time-efficient process that development teams use to design and build high-quality software.
 
-SDLC follows a,
+SDLC follows a systematic and oderly approach
 
-- Systematic and oderly approach
-    - There is only way forward
-    - There is no undo button
+- There is only way forward
+- There is no undo button
 
-![SDLC](../assets/images/sdlc.jpg 'Figure 1.3: Software Development Life Cycle (SDLC) and its phases')
+<br>
+
+<p align="center"><img src="../assets/images/sdlc.jpg" alt="SDLC" title="Figure 1.3: Software Development Life Cycle (SDLC) and its phases"/></p>
 
 <p align="center"><i>figure 1.3: Software Development Life Cycle (SDLC) and its phases.</i></p>
+
+<br>
 
 <ins><strong>SDLC Characteristics:</strong></ins>
 
@@ -204,13 +211,15 @@ SDLC follows a,
 
 2. No repeated changes.
 
-##### **Q. When to use SDLC?**
+<br>
+
+**Q. When to use SDLC?**
 
 1. When the requirements are clear and detailed.
 
 2. When project scope, goals, budget and resources are defined.
 
-##### **Q. Where to use SDLC?**
+**Q. Where to use SDLC?**
 
 1. Developing healthcare and Govt. systems.
 
