@@ -26,12 +26,13 @@
         1. [Roles of a System Analyst](#11-roles-of-a-system-analyst)
         2. [Qualities of a System Analyst](#12-qualities-of-a-system-analyst)
         3. [Characteristics of SLDC, SDLC Figure](#13-software-development-life-cycle-sdlc)
-        4. Agile Development, Agile Figure
-        5. Principles & Core Practices of Agile
-        6. OOSAD, Usage of OOSAD
-        7. SDLC vs Agile
-        8. SDLC, Agile or OOSAD - When to use each?
-        9. Types of CASE Tools
+        4. [Agile Development](#14-agile-methodology)
+        5. [Principles](#15a-principles-of-agile) & [Core Practices of Agile](#15b-core-practices-of-agile)
+        6. [Five Stages of Agile Development](#15e-five-stages-of-agile-development)
+        7. [OOSAD](#17a-oosad-methodology), [Usage of OOSAD](#17b-usage-of-oosad)
+        8. SDLC vs Agile
+        9. SDLC, Agile or OOSAD - When to use each?
+        10. [Types of CASE Tools](#110-types-of-case-tools)
 
     - **Chapter II**
         1. Forces that shape an Organization
@@ -194,13 +195,7 @@ SDLC follows a systematic and oderly approach
 - There is only way forward
 - There is no undo button
 
-<br>
-
-<p align="center"><img src="../assets/images/sdlc.jpg" alt="SDLC" title="Figure 1.3: Software Development Life Cycle (SDLC) and its phases"/></p>
-
-<p align="center"><i>figure 1.3: Software Development Life Cycle (SDLC) and its phases.</i></p>
-
-<br>
+<p align="center"><img src="../assets/images/sdlc.jpg" alt="SDLC" title="Figure 1.3: Software Development Life Cycle (SDLC) and its phases"/><br><i>figure 1.3: Software Development Life Cycle (SDLC) and its phases.</i></p>
 
 <ins><strong>SDLC Characteristics:</strong></ins>
 
@@ -214,18 +209,171 @@ SDLC follows a systematic and oderly approach
 
 2. No repeated changes.
 
-<br>
-
-**Q. When to use SDLC?**
+<ins><strong>When to use SDLC?</strong></ins>
 
 1. When the requirements are clear and detailed.
 
 2. When project scope, goals, budget and resources are defined.
 
-<br>
-
-**Q. Where to use SDLC?**
+<ins><strong>Where to use SDLC?</strong></ins>
 
 1. Developing healthcare and Govt. systems.
 
 2. Developing banking systems. (like ATM)
+
+---
+
+#### 1.4. Agile Methodology
+
+Agile is an iterativem team-based approach to software development and project management that focuses on delivering value faster, enhancing flexibility, and improving collaboration.
+
+Agile is a way to manage projects by breaking them into smaller parts. It focuses on working together and making constant improvements.
+
+Most industry level software projects follow the **Agile Methodology**.
+
+<p align="center"><img src="../assets/images/agile.png" alt="Agile" title="Figure 1.4: Agile Development"/><br><i>figure 1.4: Agile methodology.</i></p>
+
+Agile offers -
+
+1. Incremental delivery (called **Sprint**s)
+2. Collaboration and Flexibility
+3. Continual learning
+
+- <ins><strong>Collaboration:</strong></ins>
+    1. Flexible application and fast delivery.
+
+    2. Proper transparent communication.
+
+    3. No unneccessary documents.
+
+    4. User-centric feedback in every phase of development.
+
+- <ins><strong>Flexibility:</strong></ins>
+    1. Low budget,
+
+    2. Flexible timing,
+
+    3. Always delivers the best quality.
+
+- <ins><strong>Continual Learning:</strong></ins>
+    1. Learning the users need as the project progresses.
+
+    2. Implement new technologies on the fly.
+
+**Agile is easy to understand but hard to master.**
+
+Agile is based on -
+
+- Values (Beliefs)
+- Principles (How engineers act and think)
+- Core Practices (What engineers do daily)
+
+<ins><strong>Values of Agile:</strong></ins>
+
+1. Communication,
+2. Simplicity,
+3. Riskier features are implemented later,
+4. User feedback.
+
+<ins><strong>Sprint Duration:</strong></ins> 1/2 week (max 4 weeks)
+
+---
+
+#### 1.5A. Principles of Agile
+
+1. Deliver software frequently
+2. Embrace change
+3. Work with customers regularly
+4. Keep a sustainable pace
+5. Improve continously
+
+#### 1.5B. Core Practices of Agile
+
+1. Work in short cycles
+2. Daily meetings
+3. Tests frequently
+4. Collaborate as a team
+
+#### 1.5C. The Agile Team
+
+1. **"The show must go on"**
+2. Every developer can do multiple functions
+3. Transparent and Collaborative
+
+#### 1.5D. Adjustable Resources of Agile Development
+
+1. Time
+2. Cost
+3. Quality (ensuring best quality)
+4. Scope
+
+---
+
+#### 1.6A. Five Stages of Agile Development
+
+1. Exploration
+
+2. **Planning:** Customer decides what the development should tackle first.
+
+3. **Iterations of First Release:** This is a continuous process. Here customer feedback is considered and daily meetings are hold.
+
+4. **Productionizing:** A working software with initial features is being produced here.
+
+5. **Maintenance:** Here riskier customer suggestions are considered. Team members may be rotated on or off the team.
+
+#### 1.6B. Agile Characteristics
+
+- Agile development demans skillful developers.
+
+- Agile development is user-centric.
+
+#### 1.6C. Where to use Agile?
+
+1. In user-centric development projects, (e-commerce)
+
+2. Where time and budget is flexible,
+
+3. Where fast software delivery is expected.
+
+---
+
+#### 1.7A. OOSAD Methodology
+
+OOSAD is a structural methodology that models systems as interacting, real-world objects.
+
+- Uses object-oriented fundamentals.
+- Maximum time is spent on design.
+
+<ins><strong>OOSAD Phases:</strong></ins>
+
+1. Analysis
+2. Design
+3. Implementation
+4. Maintenance
+
+<ins><strong>OOSAD Characteristics:</strong></ins>
+
+1. Uses the four principles of **OOP** (**Inheritance, Polymorphism, Encapsulation, Abstraction**)
+2. Focuses on real-world objects.
+3. More importance on modeling the software.
+4. Riskier features are usually implemented first.
+
+<ins><strong>Benefits of OOP:</strong></ins>
+
+1. Re-useability
+2. Modularity
+
+#### 1.7B. Usage of OOSAD
+
+- Rapidly changing features and updates.
+- When the system is very complex.
+
+---
+
+#### 1.10. Types of CASE Tools
+
+1. **Upper Case:** Follows first 3 steps of SDLC.
+
+2. **Lower Case:** Follows last 4 steps of SDLC.
+
+3. **Integrated CASE:** Hybrid of upper case and lower case.
