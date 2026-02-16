@@ -134,6 +134,7 @@ A System Analyst has three primary roles -
 
 1. **Consultant** (The Problem Solver)
     - Analyzes existing systems
+
     - Gathers requirements
     - Proposes solutions
 
