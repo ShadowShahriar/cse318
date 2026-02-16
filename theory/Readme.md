@@ -58,6 +58,8 @@
     - Use Case Model **(5 Marks Confirmed)**
     - Choose appropriate Design Methodology and justify your answer
 
+---
+
 ### Full Forms
 
 | Abbreviation      | Phrase                                     |
@@ -69,6 +71,8 @@
 | DFD               | Data Flow Diagram                          |
 | ER&nbsp;Diagram   | Entity-Relationship Diagram                |
 | PERT&nbsp;Diagram | Program Evaluation and Review Technique    |
+
+---
 
 ### Definitions
 
@@ -116,3 +120,5 @@
 - <ins><strong>Problem Statement:</strong></ins> A concise, data-driven description of an issue, gap, or pain point that a project aims to resolve.
 
 - <ins><strong>Rent and Lease:</strong></ins> Renting is short-term (weeks to months), allowing for quick moves. Leasing is a long-term, fixed-period contract, often 12 months or longer.
+
+---
