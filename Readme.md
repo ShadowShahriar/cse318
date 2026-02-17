@@ -32,6 +32,7 @@ Course offered by,
     - [Full Forms](https://shadowshahriar.github.io/cse318/theory/#full-forms)
     - [Definitions](https://shadowshahriar.github.io/cse318/theory/#definitions)
     - [Theoretical Questions](https://shadowshahriar.github.io/cse318/theory/#theoretical-questions)
+    - [CT Questions](https://shadowshahriar.github.io/cse318/theory/#ct-questions)
 
 ## Practice Problems
 

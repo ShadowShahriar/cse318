@@ -44,7 +44,7 @@
 
     - **Chapter III**
         1. Gantt Chart
-        2. PERT Diagram
+        2. [PERT Diagram](#32-pert-diagram)
         3. [What are some reasons to initiate a new project?](#33-what-are-some-reasons-to-initiate-a-new-project)
         4. [How to identify if we need to initiate a new project?](#34-how-to-identify-if-we-need-to-initiate-a-new-project)
         5. [Feasibility Analysis: Assessment & Output](#35-feasibility-analysis)
@@ -59,6 +59,14 @@
     - ER Diagram
     - Use Case Model **(5 Marks Confirmed)**
     - Choose appropriate Design Methodology and justify your answer
+
+### CT Questions
+
+- [**Section 1**](#section-1)
+- [**Section 3**](#section-3)
+- [**Section 5**](#section-5)
+- [**Section 7**](#section-7)
+- [**Section 8**](#section-8)
 
 ---
 
@@ -589,6 +597,26 @@ Parts of a Use Case Scenario:
 
 ---
 
+#### 3.2. PERT Diagram
+
+**Node**
+
+| **A** |  ES |  EF |
+| :---- | --: | --: |
+| **t** |  LS |  LF |
+
+1. Activities with no predecessors can be started in parallel.
+2. Activities that are **NOT** predecessors of any other activity will be connection to the **FINISH** node.
+3. Forward Pass ——▷ **Maximum** of successor nodes
+4. Backward Pass ——▷ **Minimum** of successor nodes
+5. **FINISH** node(s) denote the Total Project Completion Time.
+6. Slack Time = _LF - EF_ or _LS - ES_
+7. Critical Activities = Nodes of which the slack time are **zero**.
+8. Critical Path = Consists of Critical Activities, connected with a line/dash.
+9. "Show PERT Chart only" = "Show Forward Pass only"
+
+---
+
 #### 3.3. What are some reasons to initiate a new project?
 
 A collection of organized tasks that can be performed either in sequential or in parallel manner to achieve a specific goal.
@@ -678,3 +706,27 @@ A feasibility study is important because it is based on a organizational desire 
 | Renting | • No captial is tied up<br>• Easy to change systems<br>• Maintenance and insurance included | • Company doesn't own the computer<br>• Cost is very high as vendor assumes the risk<br>• The most expensive option in the long run    |
 
 ---
+
+#### CT Questions
+
+These were collected by **Kazi Zakaria**.
+
+##### Section 1
+
+<p align="center"><img src="mid-ct-sec-01.jpg" alt="CT Question of Section 1"/></p>
+
+##### Section 3
+
+<p align="center"><img src="mid-ct-sec-03.jpg" alt="CT Question of Section 3"/></p>
+
+##### Section 5
+
+<p align="center"><img src="mid-ct-sec-05.jpg" alt="CT Question of Section 5"/></p>
+
+##### Section 7
+
+<p align="center"><img src="mid-ct-sec-07.jpg" alt="CT Question of Section 7"/></p>
+
+##### Section 8
+
+<p align="center"><img src="mid-ct-sec-08.jpg" alt="CT Question of Section 8"/></p>
