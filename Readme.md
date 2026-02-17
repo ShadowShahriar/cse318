@@ -48,6 +48,8 @@ Course offered by,
 - [**Class 06**](https://shadowshahriar.github.io/cse318/notes/class-06.pdf): 20 January 2026
 - [**Class 07-08**](https://shadowshahriar.github.io/cse318/notes/class-07-08.pdf): 26-27 January 2026
 - [**Class 09-10**](https://shadowshahriar.github.io/cse318/notes/class-09-10.pdf): 02-03 February 2026
+- [**Class 11**](https://shadowshahriar.github.io/cse318/notes/class-06.pdf): 09 February 2026
+- **Class 12**: 10 February 2026 (❌ No notes)
 
 ## Lab Task
 
