@@ -47,10 +47,11 @@
         2. PERT Diagram
         3. [What are some reasons to initiate a new project?](#33-what-are-some-reasons-to-initiate-a-new-project)
         4. [How to identify if we need to initiate a new project?](#34-how-to-identify-if-we-need-to-initiate-a-new-project)
-        5. Feasibility Analysis: Assessment & Output
-        6. Types of Feasibility Analysis
-        7. Why is Feasibility Analysis needed?
-        8. Ascertaining Hardware and Software Needs: Chart
+        5. [Feasibility Analysis: Assessment & Output](#35-feasibility-analysis)
+        6. [Types of Feasibility Analysis](#36-types-of-feasibility-analysis)
+        7. [Why is Feasibility Analysis needed?](#37-why-is-feasibility-analysis-needed)
+        8. [Ascertaining Hardware and Software Needs: Chart](#38-ascertaining-hardware-and-software-needs)
+        9. [When to buy, rent, or lease?](#39-when-to-buy-rent-or-lease)
 
 3. **Scenario-based Questions**
     - Gantt Chart, PERT Diagram
@@ -73,6 +74,9 @@
 | ER&nbsp;Diagram   | Entity-Relationship Diagram                |
 | PERT&nbsp;Diagram | Program Evaluation and Review Technique    |
 | SRS               | Software Requirement Specification         |
+| RoI               | Return on Investment                       |
+| ASP               | Application Service Provider               |
+| CTOS              | -                                          |
 
 ---
 
@@ -407,9 +411,9 @@ OOSAD is a structural methodology that models systems as interacting, real-world
 
 #### 1.10. Types of CASE Tools
 
-1. **Upper Case:** Follows first 3 steps of SDLC.
+1. **Upper CASE:** Follows first 3 steps of SDLC.
 
-2. **Lower Case:** Follows last 4 steps of SDLC.
+2. **Lower CASE:** Follows last 4 steps of SDLC.
 
 3. **Integrated CASE:** Hybrid of upper case and lower case.
 
@@ -601,3 +605,76 @@ There are mainly two reasons that might require to initiate a new project -
 1. Asking for user feedback,
 2. Check performance benchmarks: Current vs New solution,
 3. Frequent job turnovers and dissatisfaction.
+
+---
+
+#### 3.5. Feasibility Analysis
+
+Feasibility Analysis is a type of study that determines whether a system can be practically and successfully developed using the available resources.
+
+Feasibility is assessed in **three ways**:
+
+- Operationally
+- Technically
+- Economically
+
+Possible feasibility outputs:
+
+- Accepted
+- Rejected
+- Accepted with modifications
+
+---
+
+#### 3.6. Types of Feasibility Analysis
+
+Feasibility Analysis is done using the **TELOS** criteria.
+
+- <ins><strong>Techincal Feasibility</strong></ins>
+    1. Tools and hardware required to build the project.
+    2. Technical expertise that the development team is expected to have to build the project.
+
+- <ins><strong>Economical Feasibility</strong></ins>
+    1. Development costs (Startup costs) and Operating costs are within the budget.
+    2. RoI analysis to determine whether the project would generate any revenue.
+
+- <ins><strong>Legal Feasibility</strong></ins> (NOT Needed)
+    1. Ensure no major legal barriers are hindering the development of the project.
+
+- <ins><strong>Operational Feasibility</strong></ins>
+    1. Ensure enough human resources are present to operate and maintain the project.
+    2. Ensure the human resources are skillful. If they are not - consult training programs for them.
+
+- <ins><strong>Schedule Feasibility</strong></ins> (NOT Needed)
+    1. Ensure the project completes within the expected time frame.
+
+---
+
+#### 3.7. Why is Feasibility Analysis needed?
+
+A feasibility study is important because it is based on a organizational desire to get things right before committing resources, time or budget. A feasibility study might uncover new ideas that could completely change a project's scope. There a some key benefits of conducting a feasibility study:
+
+1. Improves project teams' focus
+2. Identifies new opportunities and problems with the current design decisions.
+3. Narrows the business alternatives.
+4. Identifies valid reasons to undertake or reject the project.
+5. Enhances the success rate by evaluating multiple parameters.
+6. Gives stakeholders a clear picture of the proposed project.
+
+---
+
+#### 3.8. Ascertaining Hardware and Software Needs
+
+<p align="center"><img src="../assets/images/ahsn.png" alt="AHSN" title="Figure 3.8: Steps in aquiring computer hardware and software"/><br><i>figure 3.8: Steps in aquiring computer hardware and software.</i></p>
+
+---
+
+#### 3.9. When to buy, rent, or lease?
+
+|         | Advantages                                                                                  | Disadvantages                                                                                                                          |
+| :------ | :------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------- |
+| Buying  | • Cheaper than leasing or renting over the long run<br>• Full control                       | • Initial cost is high<br>• Risk of obsolescence<br>• Risk of being stuck if choice was wrong<br>• Full responsibility                 |
+| Leasing | • No captial is tied up<br>• Cheaper than renting                                           | • Company doesn't own the system when expired.<br>• Usually a heavy penanlty for terminating the lease<br>• More expensive than buying |
+| Renting | • No captial is tied up<br>• Easy to change systems<br>• Maintenance and insurance included | • Company doesn't own the computer<br>• Cost is very high as vendor assumes the risk<br>• The most expensive option in the long run    |
+
+---
