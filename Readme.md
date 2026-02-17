@@ -37,6 +37,7 @@ Course offered by,
 
 - **Mid Term Examination**
     - [**01:** Feasibility Analysis, Problem Statement, Project Scheduling](https://shadowshahriar.github.io/cse318/notes/practice-01.pdf)
+    - [**02:** Use Case Model, Context Level DFD, ER Diagram](https://shadowshahriar.github.io/cse318/notes/practice-02.pdf)
 
 ## Class Notes
 
