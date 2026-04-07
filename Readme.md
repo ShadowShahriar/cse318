@@ -34,6 +34,13 @@ Course offered by,
     - [Theoretical Questions](https://shadowshahriar.github.io/cse318/theory/#theoretical-questions)
     - [CT Questions](https://shadowshahriar.github.io/cse318/theory/#ct-questions)
 
+- [**Final Term Examination**](https://shadowshahriar.github.io/cse318/theory/#final-term-examination)
+    - [Topic List](https://shadowshahriar.github.io/cse318/theory/#topic-list-1)
+    - [Full Forms](https://shadowshahriar.github.io/cse318/theory/#full-forms-1)
+    - [Definitions](https://shadowshahriar.github.io/cse318/theory/#definitions-1)
+    - [Theoretical Questions](https://shadowshahriar.github.io/cse318/theory/#theoretical-questions-1)
+    - [CT Questions](https://shadowshahriar.github.io/cse318/theory/#ct-questions-2)
+
 ## Practice Problems
 
 - **Mid Term Examination**
@@ -41,6 +48,8 @@ Course offered by,
     - [**02:** Use Case Model, Context Level DFD, ER Diagram](https://shadowshahriar.github.io/cse318/notes/practice-02.pdf)
 
 ## Class Notes
+
+#### Mid Term
 
 - [**Class 01**](https://shadowshahriar.github.io/cse318/notes/class-01.pdf): 05 January 2026
 - [**Class 02**](https://shadowshahriar.github.io/cse318/notes/class-02.pdf): 06 January 2026
@@ -53,6 +62,12 @@ Course offered by,
 - [**Class 11**](https://shadowshahriar.github.io/cse318/notes/class-11.pdf): 09 February 2026
 - **Class 12**: 10 February 2026 (❌ No notes)
 
+#### Final Term
+
+- [**Class 01-02**](https://shadowshahriar.github.io/cse318/notes/class-13-14.pdf): 02-03 March 2026
+- [**Class 03-04**](https://shadowshahriar.github.io/cse318/notes/class-15-16.pdf): 30-31 March 2026
+- [**Class 05**](https://shadowshahriar.github.io/cse318/notes/class-17.pdf): 06 April 2026
+
 ## Lab Task
 
 - [**Lab 01**](https://shadowshahriar.github.io/cse318/lab/01-2026-01-07/tasks.docx): 07 January 2026
@@ -60,6 +75,7 @@ Course offered by,
 - [**Lab 03**](https://shadowshahriar.github.io/cse318/lab/03-2026-01-21/tasks.docx): 21 January 2026
 - [**Lab 04**](https://shadowshahriar.github.io/cse318/lab/04-2026-01-28/tasks.docx): 28 January 2026
 - **Lab 05**: 04 February 2026 (❌ No class)
+- [**Lab 06**](https://shadowshahriar.github.io/cse318/lab/06-2026-04-01/tasks.docx): 01 April 2026
 
 ## Lab Reports
 
@@ -68,3 +84,4 @@ Course offered by,
 - [**Lab 03**](https://shadowshahriar.github.io/cse318/lab/03-2026-01-21/report.pdf): 21 January 2026
 - [**Lab 04**](https://shadowshahriar.github.io/cse318/lab/04-2026-01-28/report.pdf): 28 January 2026
 - **Lab 05**: 04 February 2026 (❌ No class)
+- [**Lab 06**](https://shadowshahriar.github.io/cse318/lab/06-2026-04-01/report.pdf): 01 April 2026
