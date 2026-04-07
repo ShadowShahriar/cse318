@@ -730,3 +730,17 @@ These were collected by **Kazi Zakaria**.
 ##### Section 8
 
 <p align="center"><img src="mid-ct-sec-08.jpg" alt="CT Question of Section 8"/></p>
+
+## Final Term Examination
+
+### Topic List
+
+### CT Questions
+
+### Full Forms
+
+### Definitions
+
+### Theoretical Questions
+
+#### CT Questions
