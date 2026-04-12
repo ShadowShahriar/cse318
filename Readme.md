@@ -68,6 +68,7 @@ Course offered by,
 - [**Class 03-04**](https://shadowshahriar.github.io/cse318/notes/class-15-16.pdf): 30-31 March 2026
 - [**Class 05**](https://shadowshahriar.github.io/cse318/notes/class-17.pdf): 06 April 2026
 - [**Class 06**](https://shadowshahriar.github.io/cse318/notes/class-18.pdf): 07 April 2026
+- [**Class 07**](https://drive.google.com/drive/folders/1EGoD6shvcFhCAin7jqClasOzigKk_y-y?usp=sharing): 11 April 2026 (✅ Online)
 
 ## Lab Task
 
