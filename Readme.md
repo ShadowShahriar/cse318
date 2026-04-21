@@ -70,6 +70,8 @@ Course offered by,
 - [**Class 06**](https://shadowshahriar.github.io/cse318/notes/class-18.pdf): 07 April 2026
 - [**Class 07**](https://drive.google.com/drive/folders/1EGoD6shvcFhCAin7jqClasOzigKk_y-y?usp=sharing): 11 April 2026 (✅ Online)
 - **Class 08**: 13 April 2026 (❌ Cancelled)
+- [**Class 09**](https://shadowshahriar.github.io/cse318/notes/class-20.pdf): 20 April 2026
+- **Class 10**: 21 April 2026 (EOC)
 
 ## Lab Task
 
