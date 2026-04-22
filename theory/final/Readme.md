@@ -76,6 +76,18 @@
 
 ### Full Forms
 
+| Abbreviation | Full Form                                  |
+| :----------- | :----------------------------------------- |
+| IS           | Information Systems                        |
+| JAD          | Joint Application Development              |
+| DFD          | Dataflow Diagram                           |
+| CRUD         | Create/Read/Update/Delete                  |
+| OOP          | Object Oriented Programming                |
+| UML          | Unified Modeling Language                  |
+| CRC          | Class Responsibilities Collaborators       |
+| OOSAD        | Object-Oriented System Analysis and Design |
+| ECB          | Entity-Control-Boundary                    |
+
 ### Definitions
 
 #### Chapter 4
