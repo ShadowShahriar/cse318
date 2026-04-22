@@ -27,19 +27,19 @@ Course offered by,
 
 ## Theory Quick Notes
 
-- [**Mid Term Examination**](https://shadowshahriar.github.io/cse318/theory/#mid-term-examination)
-    - [Topic List](https://shadowshahriar.github.io/cse318/theory/#topic-list)
-    - [Full Forms](https://shadowshahriar.github.io/cse318/theory/#full-forms)
-    - [Definitions](https://shadowshahriar.github.io/cse318/theory/#definitions)
-    - [Theoretical Questions](https://shadowshahriar.github.io/cse318/theory/#theoretical-questions)
-    - [CT Questions](https://shadowshahriar.github.io/cse318/theory/#ct-questions)
+- [**Mid Term Examination**](https://shadowshahriar.github.io/cse318/theory/mid/#mid-term-examination)
+    - [Topic List](https://shadowshahriar.github.io/cse318/theory/mid/#topic-list)
+    - [Full Forms](https://shadowshahriar.github.io/cse318/theory/mid/#full-forms)
+    - [Definitions](https://shadowshahriar.github.io/cse318/theory/mid/#definitions)
+    - [Theoretical Questions](https://shadowshahriar.github.io/cse318/theory/mid/#theoretical-questions)
+    - [CT Questions](https://shadowshahriar.github.io/cse318/theory/mid/#ct-questions)
 
-- [**Final Term Examination**](https://shadowshahriar.github.io/cse318/theory/#final-term-examination)
-    - [Topic List](https://shadowshahriar.github.io/cse318/theory/#topic-list-1)
-    - [Full Forms](https://shadowshahriar.github.io/cse318/theory/#full-forms-1)
-    - [Definitions](https://shadowshahriar.github.io/cse318/theory/#definitions-1)
-    - [Theoretical Questions](https://shadowshahriar.github.io/cse318/theory/#theoretical-questions-1)
-    - [CT Questions](https://shadowshahriar.github.io/cse318/theory/#ct-questions-2)
+- [**Final Term Examination**](https://shadowshahriar.github.io/cse318/theory/final/#final-term-examination)
+    - [Topic List](https://shadowshahriar.github.io/cse318/theory/final/#topic-list)
+    - [Full Forms](https://shadowshahriar.github.io/cse318/theory/final/#full-forms)
+    - [Definitions](https://shadowshahriar.github.io/cse318/theory/final/#definitions)
+    - [Theoretical Questions](https://shadowshahriar.github.io/cse318/theory/final/#theoretical-questions)
+    - [CT Questions](https://shadowshahriar.github.io/cse318/theory/final/#ct-questions)
 
 ## Practice Problems
 
@@ -71,7 +71,7 @@ Course offered by,
 - [**Class 07**](https://drive.google.com/drive/folders/1EGoD6shvcFhCAin7jqClasOzigKk_y-y?usp=sharing): 11 April 2026 (✅ Online)
 - **Class 08**: 13 April 2026 (❌ Cancelled)
 - [**Class 09**](https://shadowshahriar.github.io/cse318/notes/class-20.pdf): 20 April 2026
-- **Class 10**: 21 April 2026 (EOC)
+- [**Class 10**](https://shadowshahriar.github.io/cse318/notes/class-21.pdf): 21 April 2026 (EOC)
 
 ## Lab Task
 
