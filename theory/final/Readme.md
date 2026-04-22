@@ -133,7 +133,7 @@
 
 - <ins><strong>ECB Sequence Diagram:</strong></ins> An Entity-Control-Boundary (ECB) sequence diagram is a UML tool used to visualize the interaction between system components over time.
 
-It breaks down functional scenarios into three distinct roles: **Boundary** (interfaces), **Control** (logic), and **Entity** (data), to model system behavior.
+    It breaks down functional scenarios into three distinct roles: **Boundary** (interfaces), **Control** (logic), and **Entity** (data), to model system behavior.
 
 - <ins><strong>State Chart:</strong></ins> A State Chart (or **State Machine Diagram**) is a UML behavioral diagram that models the dynamic, event-driven lifecycle of a system, component, or object.
 
