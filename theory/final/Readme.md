@@ -86,6 +86,9 @@
         10. [When to avoid using JAD?](#49b-when-to-avoid-using-jad)
         11. [What are the benefits of using JAD?](#49c-what-are-the-benefits-of-using-jad)
         12. [What are the drawbacks of JAD?](#49d-what-are-the-drawbacks-of-jad)
+        13. [Who are involved in JAD?](#49e-who-are-involved-in-jad)
+        14. [What are measurement scales?](#410a-what-are-measurement-scales)
+        15. [What are the problems that occur frequently in measurement scales?](#410b-what-are-the-problems-that-occur-frequently-in-measurement-scales)
 
     - **Chapter 7**
         1. TODO
@@ -442,7 +445,55 @@ JAD should be used when projects require high levels of stakeholder collaboratio
 
 - **Potential for Groupthink:** The collaborative environment can sometimes limit individual creativity or result in "follow-the-leader" scenarios where one person dominates.
 
+#### 4.9E. Who are involved in JAD?
+
+- Executive sponsor
+- Information Systems Analyst
+- Users
+- Session leader
+- Observers
+- Scribe
+
 ---
+
+#### 4.10A. What are measurement scales?
+
+Measurement scales are essential frameworks in information gathering and research used to define, categorize, and quantify variables. We mainly used two types of scales:
+
+- <ins><strong>Nominal Scale:</strong></ins> Used for naming, labeling, or classifying variables into distinct groups, with no quantitative value or inherent order.
+
+- <ins><strong>Interval Scale:</strong></ins> Quantitative scales featuring order, meaningful/equal distances (intervals) between values, but **no true zero point.**
+
+| Feature       | Nominal Scale                      | Interval Scale                                        |
+| :------------ | :--------------------------------- | :---------------------------------------------------- |
+| **Purpose**   | Classify, label, or name variables | Measure magnitude, order, and distance between points |
+| **Order**     | No inherent order or ranking       | Data is ordered                                       |
+| **Intervals** | Not applicable                     | Equal, consistent intervals                           |
+| **True Zero** | No                                 | No (arbitrary zero point)                             |
+| **Data Type** | Qualitative / Categorical          | Quantitative / Numeric                                |
+| **Analysis**  | Frequency, Mode, Percentage        | Mean, Median, Standard Deviation                      |
+| **Example**   | Yes/No, Hair Color, Gender         | Celsius, Fahrenheit, IQ Score                         |
+
+#### 4.10B. What are the problems that occur frequently in measurement scales?
+
+- <ins><strong>Leniency Bias:</strong></ins> The Leniency Effect (or Leniency Bias) in information gathering refers to the systematic tendency for evaluators to provide ratings that are consistently higher-more positive or generous-than the actual performance or objective data justifies.
+
+    This bias often results from a desire to avoid conflict, a wish to be seen as supportive, or an attempt to protect subordinates.
+
+    **Solution:** Move the **average** category to the left or right of the center.
+
+- <ins><strong>Central Tendency:</strong></ins> Central tendency bias occurs when survey respondents avoid extreme scale options (e.g., "Very Satisfied" or "Extremely Unlikely") and cluster their answers around the middle, leading to compressed data and muted, inaccurate results.
+
+    **Solution:**
+    - Make the differences smaller at the two ends.
+    - Adjust the strength of the descriptors.
+    - Create a scale with more points.
+
+- <ins><strong>Halo Effect:</strong></ins> The halo effect in surveys is a cognitive bias where a respondent’s overall positive or negative impression of a brand, person, or product influences their ratings of specific, individual attributes.
+
+    This causes skewed data, as a general feeling overshadows objective evaluation.
+
+    **Solution:** Place one trait and several items on each page.
 
 #### Chapter 7
 
