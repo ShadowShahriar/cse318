@@ -238,6 +238,8 @@ Information gathering is the systematic process of collecting, analyzing, and or
 
     Questionnaires collect information on behaviors, opinions, and characteristics using pre-defined closed or open-ended questions. They ensure the same set of questions is presented to all respondents, creating consistency and enabling easier analysis.
 
+---
+
 #### 4.2. Explain the steps of preparing for an interview in the context of information gathering.
 
 Preparing for an interview for gathering information involves a structured process focused on research and setting clear goals to ensure the meeting is productive and mutually beneficial. The key steps are:
@@ -247,6 +249,8 @@ Preparing for an interview for gathering information involves a structured proce
 3. Deciding whom to interview and review past interactions with them,
 4. Preparing the interviewee. Let them know the interview agenda, date and time, and location,
 5. Decide on the question types, structure, and prepare a questionnaire.
+
+---
 
 #### 4.3. What is a Questionnaire? Explain its types with suitable examples.
 
@@ -273,6 +277,8 @@ A questionnaire is a research tool consisting of a structured series of written 
     - **Multiple-Choice:** Which feature do you use most? (_A, B, C, or D_)
     - **Likert Scale:** How satisfied are you with the service? (_1-5 scale_)
     - **Ranking:** Rank these items in order of preference.
+
+---
 
 #### 4.4. Discuss the pros and cons of open-ended questions and close-ended questions.
 
@@ -318,6 +324,8 @@ Cons
 
 - Feels like an interrogation session.
 
+---
+
 #### 4.5. Show the key differences between open-ended and close-eneded questions.
 
 | Open-ended&nbsp;Questions                                   | Close-ended&nbsp;Questions                         |
@@ -326,6 +334,8 @@ Cons
 | Uncover unexpected stories and insights.                    | Uncover details or provide clarification.          |
 | Facilitate exploration of a topic.                          | Support quantification of responses.               |
 | Used heavily in interviews and qualitative usability tests. | Used heavily in surveys and quantitative research. |
+
+---
 
 #### 4.6. What is a Probing Question?
 
@@ -350,6 +360,8 @@ Probing questions help move a conversation forward by revealing more detailed in
 - **Promote critical thinking:** Force the respondent to think deeper about their reasoning.
 - **Clarify ambiguity:** Resolve unclear points in a discussion.
 
+---
+
 #### 4.7. Discuss question structures in a questionnaire.
 
 There are mainly three types of structures found in a questionnaire. They are:
@@ -370,6 +382,8 @@ There are mainly three types of structures found in a questionnaire. They are:
 
     > Used to combine the strengths of both, ensuring a warm-up, broad discussion, and final specific conclusion.
 
+---
+
 #### 4.8. How the questionnaire language should sound like?
 
 - Short and simple,
@@ -379,6 +393,8 @@ There are mainly three types of structures found in a questionnaire. They are:
 - Technically accurate,
 - Addressed to those who are knowledgeable in that particular field,
 - Appropriate for the reading level of the respondent.
+
+---
 
 #### 4.9A. What is JAD? Which conditions support the use of JAD?
 
@@ -425,6 +441,8 @@ JAD should be used when projects require high levels of stakeholder collaboratio
 - **Difficulty in Alignment:** Varying opinions, political disputes, and conflicting goals among participants can lead to conflict and make it challenging to define, prioritize, and align on requirements.
 
 - **Potential for Groupthink:** The collaborative environment can sometimes limit individual creativity or result in "follow-the-leader" scenarios where one person dominates.
+
+---
 
 #### Chapter 7
 
