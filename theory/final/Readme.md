@@ -12,6 +12,7 @@
         - Questionnaire Language
         - Joint Application Development **(JAD)**, its conditions, advantages and disadvantages
         - Measurement Scales and their problems
+        - Questionnaire Administering
 
     - [**Chapter 7**](#chapter-7-1) (_1 set question_)
         - Context Level DFD (from _Mid_)
@@ -89,12 +90,13 @@
         13. [Who are involved in JAD?](#49e-who-are-involved-in-jad)
         14. [What are measurement scales?](#410a-what-are-measurement-scales)
         15. [What are the problems that occur frequently in measurement scales?](#410b-what-are-the-problems-that-occur-frequently-in-measurement-scales)
+        16. [List out the methods of administering a questionnaire.](#411-list-out-the-methods-of-administering-a-questionnaire)
 
     - **Chapter 7**
-        1. TODO
+        1. [Logical DFD vs Physical DFD](#71-logical-dfd-vs-physical-dfd)
 
     - **Chapter 10**
-        1. TODO
+        1. [Describe the relationship between classes by considering a custom scenario of your own.](#101-describe-the-relationship-between-classes-by-considering-a-custom-scenario-of-your-own)
 
     - **Chapter 11**
         1. [Briefly explain the categories of information.](#111-briefly-explain-the-categories-of-information)
@@ -510,11 +512,107 @@ Measurement scales are essential frameworks in information gathering and researc
 
 ---
 
+#### 4.11. List out the methods of administering a questionnaire.
+
+- Convening all concerned respondents together at one time,
+- Personally administering the questionnaire,
+- Allowing respondents to self-administer the questionnaire,
+- Mailing questionnaires,
+- Administering over the Web or via email.
+
+---
+
 #### Chapter 7
+
+#### 7.1. Logical DFD vs Physical DFD
+
+Logical DFDs model the business functionality and flow of information, focusing on _what the system does_. Physical DFDs model the technical implementation, focusing on _how the system is built_, including specific hardware, software, and files.
+
+| Logical DFD                                   | Physical DFD                                                   |
+| :-------------------------------------------- | :------------------------------------------------------------- |
+| Shows the logic/business rules of the system. | Shows the actual representation of the system.                 |
+| NO manual processes are shown.                | Manual processes are shown.                                    |
+| Logical names of the components are used.     | Actual names of the components are used.                       |
+| Shows business activities.                    | Shows the modules of the program.                              |
+| Only permanent data stores are displayed.     | Temporary data stores are shown alongside the permanent ones.  |
+| Verification and validation is NOT shown.     | Verification and validation is shown for development purposes. |
 
 ---
 
 #### Chapter 10
+
+#### 10.1. Describe the relationship between classes by considering a custom scenario of your own.
+
+Relationships between classes define how different parts of a system interact and depend on each other. The main relationships are **Association**, **Aggregation**, **Composition**, **Inheritance (Generalization)**, and **Dependency**.
+
+Let's consider a custom scenario: **Online Food Delivery System**.
+
+1. <ins><strong>Association (General Relationship):</ins></strong> A basic relationship where two classes are connected and interact with each other.
+
+    **Scenario:** `Customer` places an `Order`.
+    - A customer can place multiple orders.
+    - An order belongs to one customer.
+
+    **Example:**
+
+    ```
+    Customer ↔ Order
+    ```
+
+    ***
+
+2. <ins><strong>Aggregation:</ins></strong> A special type of association representing a whole-part relationship, but parts can exist independently of the whole.
+
+    **Scenario:** `Restaurant` has `MenuItems`.
+    - A restaurant contains many menu items.
+    - Menu items can still exist independently (_e.g., used in another restaurant system_).
+
+    **Example:**
+
+    ```
+    Restaurant ◇── MenuItem
+    ```
+
+    ***
+
+3. <ins><strong>Composition:</ins></strong> A stronger form of aggregation where parts cannot exist independently of the whole.
+
+    **Scenario:** `Order` consists of `OrderItems`.
+    - If the order is deleted, all its order items are also deleted.
+    - Order items cannot exist without an order.
+
+    **Example:**
+
+    ```
+    Order ◆── OrderItem
+    ```
+
+    ***
+
+4. <ins><strong>Inheritance (Generalization):</ins></strong> A relationship where a subclass inherits properties and behavior from a superclass.
+
+    **Scenario:** `User` is a base class, and both `Customer`, `DeliveryAgent` inherit from `User`.
+
+    **Example:**
+
+    ```
+    User → Customer
+    User → DeliveryAgent
+    ```
+
+    ***
+
+5. <ins><strong>Dependency:</ins></strong> A relationship where one class depends on another temporarily, usually for a method or operation.
+
+    **Scenario:** `PaymentService` depends on `PaymentGateway`.
+    - `PaymentService` uses `PaymentGateway` only during payment processing.
+    - It doesn’t own or store it permanently.
+
+    **Example:**
+
+    ```
+    PaymentService ---> PaymentGateway
+    ```
 
 ---
 
