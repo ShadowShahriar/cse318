@@ -106,7 +106,9 @@
         7. [What are the common options for pricing your application?](#117-what-are-the-common-options-for-pricing-your-application)
 
     - **Chapter 12**
-        1. TODO
+        1. [What are the objectives of Input Design?](#121-what-are-the-objectives-of-input-design)
+        2. [What are the seven sections of a form?](#122a-what-are-the-seven-sections-of-a-form)
+        3. [List all caption types found in a form.](#122b-list-all-caption-types-found-in-a-form)
 
 ### CT Questions
 
@@ -657,6 +659,40 @@ Output bias refers to the unintentional skewing of information presented to user
 ---
 
 #### Chapter 12
+
+#### 12.1. What are the objectives of Input Design?
+
+> The quality of system input determines the quality of system output.
+
+**Main objectives of effective input design:**
+
+- <ins><strong>Effectiveness:</strong></ins> All serve specific purposes for users of the information system.
+- <ins><strong>Accuracy:</strong></ins> Design that ensures proper completion.
+- <ins><strong>Ease of use:</strong></ins> Straightforward and require no extra time to decipher.
+- <ins><strong>Consistency:</strong></ins> Group data similarly from one application to the next.
+- <ins><strong>Simplicity:</strong></ins> Keeping designs uncluttered in a manner that focuses the user’s attention.
+- <ins><strong>Attractiveness:</strong></ins> Appealing design.
+
+---
+
+#### 12.2A. What are the seven sections of a form?
+
+- Heading
+- Identification and access
+- Instructions
+- Body
+- Signature and verification
+- Totals
+- Comments
+
+#### 12.2B. List all caption types found in a form.
+
+- <ins><strong>Line caption:</strong></ins> Putting the caption on the same line or below the line.
+- <ins><strong>Boxed caption:</strong></ins> Providing a box for data instead of a line.
+- <ins><strong>Check off caption:</strong></ins> Lining up choices or alternatives vertically.
+- <ins><strong>Horizontal check off caption:</strong></ins> Lining up choices or alternatives horizontally.
+- <ins><strong>Table caption:</strong></ins> Work well in the body of a form.
+- <ins><strong>Combination</strong></ins>
 
 ---
 
