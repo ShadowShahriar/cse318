@@ -3,30 +3,30 @@
 ### Topic List
 
 1. **Chapters and Selected Topics**
-    - **Chapter 4**
-        1. Information Gathering Methods
-        2. Interview Preparation
-        3. Questionnaire and its types
-        4. Probing Question
-        5. Questionnaire Structure (Pyramid, Funnel, Diamond)
-        6. Questionnaire Language
-        7. Joint Application Development **(JAD)**, its conditions, advantages and disadvantages
-        8. Measurement Scales and their problems
+    - **Chapter 4** (_1 set question_)
+        - Information Gathering Methods
+        - Interview Preparation
+        - Questionnaire and its types
+        - Probing Question
+        - Questionnaire Structure (Pyramid, Funnel, Diamond)
+        - Questionnaire Language
+        - Joint Application Development **(JAD)**, its conditions, advantages and disadvantages
+        - Measurement Scales and their problems
 
-    - **Chapter 7**
-        1. Context Level DFD (from _Mid_)
-        2. Level 1, Level 2 DFD
-        3. DFD Construction Rules
-        4. Logical DFD vs Physical DFD
+    - **Chapter 7** (_1 set question_)
+        - Context Level DFD (from _Mid_)
+        - Level 1, Level 2 DFD
+        - DFD Construction Rules
+        - Logical DFD vs Physical DFD
 
-    - **Chapter 10**
-        1. Benefits of UML
-        2. Class Responsibilities Collaborators **(CRC)**
-        3. UML Relationships
-        4. UML Diagrams
-        5. ECB Sequence Diagram
+    - **Chapter 10** (_1 set question_)
+        - Benefits of UML
+        - Class Responsibilities Collaborators **(CRC)**
+        - UML Relationships
+        - UML Diagrams
+        - ECB Sequence Diagram
 
-    - **Chapter 11**
+    - **Chapter 11** (_half set question_)
         - Categories of Information
         - Purpose of Business Reports
         - Objectives of Output Designs
@@ -35,7 +35,7 @@
         - Output bias and mitigation
         - Website Designing
 
-    - **Chapter 12**
+    - **Chapter 12** (_half set question_)
         - Input Design Objectives
         - Seven Sections of a Form
         - Captions in a Form
