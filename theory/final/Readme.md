@@ -3,11 +3,42 @@
 ### Topic List
 
 1. **Chapters and Selected Topics**
-    - Chapter 4
-    - Chapter 7
-    - Chapter 10
-    - Chapter 11
-    - Chapter 12
+    - **Chapter 4**
+        1. Information Gathering Methods
+        2. Interview Preparation
+        3. Questionnaire and its types
+        4. Probing Question
+        5. Questionnaire Structure (Pyramid, Funnel, Diamond)
+        6. Questionnaire Language
+        7. Joint Application Development **(JAD)**, its conditions, advantages and disadvantages
+        8. Measurement Scales and their problems
+
+    - **Chapter 7**
+        1. Context Level DFD (from _Mid_)
+        2. Level 1, Level 2 DFD
+        3. DFD Construction Rules
+        4. Logical DFD vs Physical DFD
+
+    - **Chapter 10**
+        1. Benefits of UML
+        2. Class Responsibilities Collaborators **(CRC)**
+        3. UML Relationships
+        4. UML Diagrams
+        5. ECB Sequence Diagram
+
+    - **Chapter 11**
+        - Categories of Information
+        - Purpose of Business Reports
+        - Objectives of Output Designs
+        - Advantages and Disadvantages of Output Designing
+        - Factors for choosing output technologies and methods
+        - Output bias and mitigation
+        - Website Designing
+
+    - **Chapter 12**
+        - Input Design Objectives
+        - Seven Sections of a Form
+        - Captions in a Form
 
 2. [**Definitions**](#definitions)
     - System Requirements
@@ -33,7 +64,7 @@
     - Object Oriented Programming **(OOP)**
     - Unified Modeling Language **(UML)**
     - Class Responsibilities Collaborators **(CRC)**
-    - OOSAD
+    - Object Oriented System Analysis and Design **(OOSAD)**
     - UML Diagram
     - Acitivity Diagram
     - Class Diagram
