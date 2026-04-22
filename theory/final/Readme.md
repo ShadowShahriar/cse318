@@ -547,7 +547,7 @@ Relationships between classes define how different parts of a system interact an
 
 Let's consider a custom scenario: **Online Food Delivery System**.
 
-1. <ins><strong>Association (General Relationship):</ins></strong> A basic relationship where two classes are connected and interact with each other.
+1. <ins><strong>Association (General Relationship):</strong></ins> A basic relationship where two classes are connected and interact with each other.
 
     **Scenario:** `Customer` places an `Order`.
     - A customer can place multiple orders.
@@ -561,7 +561,7 @@ Let's consider a custom scenario: **Online Food Delivery System**.
 
     ***
 
-2. <ins><strong>Aggregation:</ins></strong> A special type of association representing a whole-part relationship, but parts can exist independently of the whole.
+2. <ins><strong>Aggregation:</strong></ins> A special type of association representing a whole-part relationship, but parts can exist independently of the whole.
 
     **Scenario:** `Restaurant` has `MenuItems`.
     - A restaurant contains many menu items.
@@ -575,7 +575,7 @@ Let's consider a custom scenario: **Online Food Delivery System**.
 
     ***
 
-3. <ins><strong>Composition:</ins></strong> A stronger form of aggregation where parts cannot exist independently of the whole.
+3. <ins><strong>Composition:</strong></ins> A stronger form of aggregation where parts cannot exist independently of the whole.
 
     **Scenario:** `Order` consists of `OrderItems`.
     - If the order is deleted, all its order items are also deleted.
@@ -589,7 +589,7 @@ Let's consider a custom scenario: **Online Food Delivery System**.
 
     ***
 
-4. <ins><strong>Inheritance (Generalization):</ins></strong> A relationship where a subclass inherits properties and behavior from a superclass.
+4. <ins><strong>Inheritance (Generalization):</strong></ins> A relationship where a subclass inherits properties and behavior from a superclass.
 
     **Scenario:** `User` is a base class, and both `Customer`, `DeliveryAgent` inherit from `User`.
 
@@ -602,7 +602,7 @@ Let's consider a custom scenario: **Online Food Delivery System**.
 
     ***
 
-5. <ins><strong>Dependency:</ins></strong> A relationship where one class depends on another temporarily, usually for a method or operation.
+5. <ins><strong>Dependency:</strong></ins> A relationship where one class depends on another temporarily, usually for a method or operation.
 
     **Scenario:** `PaymentService` depends on `PaymentGateway`.
     - `PaymentService` uses `PaymentGateway` only during payment processing.
