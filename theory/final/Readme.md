@@ -3,7 +3,7 @@
 ### Topic List
 
 1. **Chapters and Selected Topics**
-    - **Chapter 4** (_1 set question_)
+    - [**Chapter 4**](#chapter-4-1) (_1 set question_)
         - Information Gathering Methods
         - Interview Preparation
         - Questionnaire and its types
@@ -13,20 +13,20 @@
         - Joint Application Development **(JAD)**, its conditions, advantages and disadvantages
         - Measurement Scales and their problems
 
-    - **Chapter 7** (_1 set question_)
+    - [**Chapter 7**](#chapter-7-1) (_1 set question_)
         - Context Level DFD (from _Mid_)
         - Level 1, Level 2 DFD
         - DFD Construction Rules
         - Logical DFD vs Physical DFD
 
-    - **Chapter 10** (_1 set question_)
+    - [**Chapter 10**](#chapter-10-1) (_1 set question_)
         - Benefits of UML
         - Class Responsibilities Collaborators **(CRC)**
         - UML Relationships
         - UML Diagrams
         - ECB Sequence Diagram
 
-    - **Chapter 11** (_half set question_)
+    - [**Chapter 11**](#chapter-11) (_half set question_)
         - Categories of Information
         - Purpose of Business Reports
         - Objectives of Output Designs
@@ -35,7 +35,7 @@
         - Output bias and mitigation
         - Website Designing
 
-    - **Chapter 12** (_half set question_)
+    - [**Chapter 12**](#chapter-12) (_half set question_)
         - Input Design Objectives
         - Seven Sections of a Form
         - Captions in a Form
@@ -72,7 +72,14 @@
     - ECB Sequence Diagram
     - State Chart
 
+3. [**Theoretical Questions**](#theoretical-questions)
+
 ### CT Questions
+
+- [**Section 1**](#section-1)
+- [**Section 3**](#section-3)
+
+---
 
 ### Full Forms
 
@@ -184,4 +191,22 @@
 
 ### Theoretical Questions
 
+#### Chapter 4
+
+#### Chapter 7
+
+#### Chapter 10
+
+#### Chapter 11
+
+#### Chapter 12
+
 #### CT Questions
+
+##### Section 1
+
+<p align="center"><img src="final-ct-sec-01.jpg" alt="CT Question of Section 1"/></p>
+
+##### Section 3
+
+<p align="center"><img src="final-ct-sec-03.jpg" alt="CT Question of Section 3"/></p>
