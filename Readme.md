@@ -94,4 +94,4 @@ Course offered by,
 - [**Lab 04**](https://shadowshahriar.github.io/cse318/lab/04-2026-01-28/report.pdf): 28 January 2026
 - **Lab 05**: 04 February 2026 (❌ No class)
 - [**Lab 06**](https://shadowshahriar.github.io/cse318/lab/06-2026-04-01/report.pdf): 01 April 2026
-- [**Project Report**](https://shadowshahriar.github.io/cse318/lab/06-2026-04-24/report.pdf): 24 April 2026
+- [**Project Report**](https://shadowshahriar.github.io/cse318/lab/07-2026-04-24/report.pdf): 24 April 2026
