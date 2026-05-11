@@ -99,3 +99,60 @@
 <script>
 	document.title = 'CSE 318: System Analysis and Design'
 </script>
+
+<script
+	src="https://skr.bd/widget.js"
+	data-id="shadowshahriar"
+	data-message=" "
+	data-color="#FFDD00"
+	data-position="right"
+	defer
+></script>
+
+<style>
+	.sk-widget-btn {
+		gap: 0 !important;
+	}
+
+	.sk-widget-btn span {
+		display: none !important;
+	}
+
+	.sk-widget-iframe-container {
+		background: #fff;
+		transform: translate(0px, 20px) !important;
+		transition: transform 300ms cubic-bezier(0.19, 1, 0.22, 1) !important;
+		height: 652px !important;
+	}
+
+	.sk-widget-iframe-container.open {
+		transform: translate(0px, 0px) !important;
+	}
+
+	@media only screen and (max-width: 600px) {
+		.sk-widget-iframe-container {
+			bottom: 50% !important;
+			right: 50% !important;
+			width: min(100%, 350px) !important;
+			height: min(100%, 652px) !important;
+			transform: translate(50%, 50%) !important;
+		}
+
+		.sk-widget-iframe-container.open {
+			transform: translate(50%, 50%) !important;
+		}
+
+		.sk-widget-iframe-container.open::before {
+			content: '';
+			position: fixed;
+			left: 50%;
+			top: 50%;
+			width: 100vw;
+			height: 100vh;
+			background: rgba(0, 0, 0, 0.5);
+			display: block;
+			transform: translate(-50%, -50%);
+			z-index: -1;
+		}
+	}
+</style>
